@@ -3,7 +3,7 @@
 This repository contains our code and trained models for **Assignment 3** of the Reinforcement Learning course.  
 It explores different Deep Q-Learning (DQN) training strategies for generalization in the *CartPole-v1* environment.
 
-🔗 **GitHub Repository:**🔗 [https://github.com/dorukakay33/assignment3_group13]
+**GitHub Repository:** [https://github.com/dorukakay33/assignment3_group13]
 
 ---
 
@@ -19,7 +19,7 @@ It explores different Deep Q-Learning (DQN) training strategies for generalizati
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/dorukakay33/assignment3_group13.git
