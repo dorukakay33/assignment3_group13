@@ -7,7 +7,7 @@ It explores different Deep Q-Learning (DQN) training strategies for generalizati
 
 ---
 
-## 📁 Contents
+## Contents
 - `groupassign-2.ipynb` — main Jupyter notebook (training + evaluation)
 - `test_script.py` — official evaluation script provided for testing agents
 - `weights/` — trained model files (`.pth`):
