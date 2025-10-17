@@ -1,0 +1,26 @@
+# Assignment 3 — Deep Q-Learning Strategies on CartPole
+
+This repository contains our code and trained models for **Assignment 3** of the Reinforcement Learning course.  
+It explores different Deep Q-Learning (DQN) training strategies for generalization in the *CartPole-v1* environment.
+
+🔗 **GitHub Repository:** [https://github.com/dorukakay33/assignment3_group13/tree/5f956fd11d73839f8bbe077d9b56b2e6449045c3]
+---
+
+## 📁 Contents
+- `groupassign-2.ipynb` — main Jupyter notebook (training + evaluation)
+- `test_script.py` — official evaluation script provided for testing agents
+- `weights/` — trained model files (`.pth`):
+  - `dqn_baseline.pth`
+  - `dqn_curriculum.pth`
+  - `dqn_reward_shape.pth`
+  - `dqn_double.pth`
+- `requirements.txt` — dependencies for reproducibility
+
+---
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/dorukakay33/assignment3_group13.git
+   cd assignment3_group13
+   pip install -r requirements.txt
